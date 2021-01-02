@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">FoodDelivery</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notification">Notification</string>
+
+    <string-array name="States">
+        <item>Rajasthan</item>
+        <item>MadhyaPradesh</item>
+        <item>Gujarat</item>
+        <item>Maharashtra</item>
+    </string-array>
+
+    <string-array name="shipper">
+        <item>Shipper 1 </item>
+        <item>Shipper 2 </item>
+        <item>Shipper 3 </item>
+        <item>Shipper 4 </item>
+    </string-array>
+
+    <string-array name="DishName">
+        <item>Thepla</item>
+        <item>Dal Rice</item>
+        <item>Dhokla</item>
+        <item>Dal-Baati-Churma</item>
+        <item>Rajasthani Kadhi</item>
+        <item>Pyaaz Kachori</item>
+        <item>Balushahi</item>
+        <item>Ghevar</item>
+        <item>Imarti</item>
+        <item>Besan-Chakki</item>
+        <item> Makki ki raab</item>
+        <item>Kalakand</item>
+        <item>Dal Dhokdi</item>
+        <item>Undhiyu</item>
+        <item>Puri Bhaji</item>
+        <item>Aloo Paratha</item>
+        <item>Khandwi</item>
+        <item>shrikhand</item>
+        <item>Palak Paneer</item>
+        <item>Makke Di Roti </item>
+        <item>Rajma</item>
+        <item>Khulcha</item>
+        <item>Dal Makhni</item>
+        <item>Kadhi Kichdi</item>
+        <item>Bhindi Fry</item>
+        <item>Gulab Jamun</item>
+        <item>Mix Veg</item>
+        <item>Laccha Paratha</item>
+        <item>Aloo Chole</item>
+        <item>Matar Paneer</item>
+        <item>Aloo Matar</item>
+        <item>Shahi Paratha</item>
+        <item>Punjabi Lassi</item>
+        <item>Papad</item>
+        <item>Rice Fry</item>
+        <item>Jeera Rice</item>
+        <item>Panner Pakoda</item>
+        <item>Shahi Panner</item>
+        <item>Panner Rice</item>
+        <item>Veg Rice</item>
+
+    </string-array>
+
+
+</resources>
